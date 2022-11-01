@@ -1,0 +1,18 @@
+.cinput{
+    display: block;
+    width: 80%;
+    padding: 5px;
+    margin: 2px auto 5px auto;
+}
+.clabel{
+    margin-left: 6.3vw;
+}
+.cbutton{
+    padding: 5px;
+    width: 50%;
+    margin-left:6.3vw;
+    background-color: salmon;
+}
+.cbutton:hover{
+    background-color: rgb(254, 110, 94)
+}

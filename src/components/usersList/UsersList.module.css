@@ -1,0 +1,11 @@
+.user{
+    border: 2px solid black;
+    margin: 2px 0;
+    display: flex;
+    justify-content: space-around;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.overflow{
+    overflow-y: scroll;
+}
